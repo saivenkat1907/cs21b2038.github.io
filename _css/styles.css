@@ -1,0 +1,31 @@
+.banner-image{
+	background-image: url(../_img/bkImg.jpg);
+	background-size: cover;
+}
+
+.skills{
+	text-align: center;
+	margin-top: 10%;
+	margin-bottom: 10%;
+}
+.form-area{
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-bottom: 5%;
+}
+
+.touch{
+	font-size: xx-large;
+}
+
+.headingArea{
+	padding: 5%;
+	font-size:  xx-large;
+}
+
+.ConDetails{
+	padding-left: 5%;
+	font-size: x-large;
+}
+
+
